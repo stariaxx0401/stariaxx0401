@@ -1,6 +1,6 @@
 # Hi there, I'm stariaxx 👋
 
-Software Developer | C & System Programming Enthusiast
+Software Developer | C/C++ & System Programming Enthusiast
 
 ---
 
