@@ -14,15 +14,15 @@ Software Developer | C & System Programming Enthusiast
 ### 🛠️ Languages & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,linux,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,linux,bash,git,github,vscode" />
   </a>
 </p>
 
 ---
 
-### 🤝 Connect with Me
-- **Email:** serhatturmus066@gmail.com
-- **LinkedIn:** [Serhat Türmüş](https://www.linkedin.com/in/serhat-t%C3%BCrm%C3%BC%C3%BFA936b/)
+### 📊 GitHub Activity
+![Serhat's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=stariaxx0401&theme=tokyo-night)
+
 ---
 
 ### 🤝 Connect with Me
