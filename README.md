@@ -1,4 +1,4 @@
-# Hi there, I'm Serhat 👋
+# Hi there, I'm stariaxx0401 👋
 
 Software Developer | C & System Programming Enthusiast
 
@@ -14,15 +14,15 @@ Software Developer | C & System Programming Enthusiast
 ### 🛠️ Languages & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,linux,github," />
+    <img src="https://skillicons.dev/icons?i=c,cpp,linux,bash,git,github,vscode" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stariaxx0401&show_icons=true&theme=tokyonight&hide_border=true)
-
+### 🤝 Connect with Me
+- **Email:** serhatturmus066@gmail.com
+- **LinkedIn:** [Serhat Türmüş](https://www.linkedin.com/in/serhat-t%C3%BCrm%C3%BC%C3%BFA936b/)
 ---
 
 ### 🤝 Connect with Me
