@@ -14,7 +14,7 @@ Software Developer | C & System Programming Enthusiast
 ### 🛠️ Languages & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,linux,bash,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,linux,git,github,vscode" />
   </a>
 </p>
 
