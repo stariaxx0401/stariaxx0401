@@ -27,4 +27,4 @@ Software Developer | C & System Programming Enthusiast
 
 ### 🤝 Connect with Me
 - **Email:** serhatturmus066@gmail.com
-- **LinkedIn:** [Serhat Türmüş](https://www.linkedin.com/in/serhat-t%C3%BCrm%C3%BC%C3%BFA936b/)
+- **LinkedIn:** [Serhat Türmüş](https://www.linkedin.com/in/serhat-türmüş-2a6aa936b//)
